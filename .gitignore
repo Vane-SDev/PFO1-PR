@@ -1,0 +1,7 @@
+# Base de datos local (SQLite)
+*.db
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
